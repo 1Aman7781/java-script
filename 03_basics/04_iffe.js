@@ -1,4 +1,4 @@
-// Immediately Invoked Function Expressions (IIFE)
+// Immediately Invoked Function Expressions (IIFE) is used to remove the pollutant of globle scope
 
 
 (function chai(){
